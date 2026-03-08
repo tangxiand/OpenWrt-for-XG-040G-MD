@@ -16,4 +16,4 @@ src-git zerotier https://github.com/mwarning/zerotier-openwrt.git;master
 
 # 第三方源 - 常用插件（可选，包含DDNS增强等）
 src-git small https://github.com/kenzok8/small.git;master
-src-git small8 https://github.com/kenzok8/small-package.git;main
+src-git small https://github.com/kenzok8/small-package.git;main
